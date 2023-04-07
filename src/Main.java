@@ -7,8 +7,8 @@ public class Main {
         sol.sun="first sun";
 
         Sun33 second= new Sun33();
-        second.color="yellow";
-        second.heat="high";
-        second.temp="75";
+        second.color="fixed branch issueSun";
+        second.heat="fixed branch issueSun";
+        second.temp="fixed branch issueSun";
     }
 }
