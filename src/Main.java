@@ -5,5 +5,10 @@ public class Main {
         sol.moon="first moon";
         sol.planets="first planet";
         sol.sun="first sun";
+
+        Sun33 second= new Sun33();
+        second.color="yellow";
+        second.heat="high";
+        second.temp="75";
     }
 }
